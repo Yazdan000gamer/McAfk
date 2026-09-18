@@ -266,6 +266,8 @@ The counter resets on a successful connection. Pressing **Disconnect** or **Remo
 
 ## Architecture
 
+<img src="/Images/diagram.png" alt="Project Logo" width="400" />
+
 ```
 index.js
 ├── State
