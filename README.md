@@ -14,9 +14,9 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 ---
-# McAfk — AFK Minecraft Player Bot for Telegram
+# McAfk - AFK Minecraft Player Bot for Telegram
 
-A Node.js Telegram bot that connects offline (cracked-auth) player bots to Minecraft servers and forwards in-game chat to Telegram groups. Manage multiple bots from your phone through a fully inline-keyboard UI — no slash commands required.
+A Node.js Telegram bot that connects offline (cracked-auth) player bots to Minecraft servers and forwards in-game chat to Telegram groups. Manage multiple bots from your phone through a fully inline-keyboard UI - no slash commands required.
 
 ---
 
