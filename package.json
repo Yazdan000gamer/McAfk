@@ -1,18 +1,16 @@
 {
-  "name": "mcafk",
-  "version": "1.0.0",
-  "description": "McAfk — Telegram bot to connect fake offline players to Minecraft servers",
+  "name": "mcafk-telegram-bot",
+  "version": "2.0.0",
+  "description": "Telegram bot manager for AFK Minecraft (mineflayer) bots, backed by SQLite",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "bun-start": "bun index.js"
-  },
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node index.js" },
   "dependencies": {
-    "grammy": "^1.36.1",
+    "better-sqlite3": "^11.8.1",
+    "dotenv": "^16.4.7",
+    "grammy": "^1.31.0",
     "mineflayer": "^4.23.0"
   },
-  "engines": {
-    "bun": ">=1.0",
-    "node": ">=18"
-  }
+  "license": "MIT"
 }
